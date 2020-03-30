@@ -7,14 +7,14 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"cbblack.png"
+         "resourceLocation":"cbblack"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"black.png"
+         "resourceLocation":"black"
       }
    }
 }
